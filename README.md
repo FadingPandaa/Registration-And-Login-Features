@@ -2,6 +2,7 @@
 
 Keabetswe Masole
 
+Software used: Apache NetBeans IDE 22
 ------------------------------------------------------------------------
 
 Registration and Login Features (Java) – Full Project Evolution
